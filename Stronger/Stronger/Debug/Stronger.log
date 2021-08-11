@@ -1,4 +1,0 @@
-﻿  Stronger.cpp
-C:\Users\User\source\repos\Stronger\Stronger\Stronger.cpp(24,32): error C2678: binary '==': no operator found which takes a left-hand operand of type 'std::string' (or there is no acceptable conversion)
-C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\guiddef.h(192,15): message : could be 'bool operator ==(const GUID &,const GUID &)'
-C:\Users\User\source\repos\Stronger\Stronger\Stronger.cpp(24,32): message : while trying to match the argument list '(std::string, char)'
